@@ -64,7 +64,7 @@ To get started with **DocExtractRAG**, follow these steps:
    ```bash
    python vector_store.py
    ```
-  >  If you would like run with another pdf. document, please replace the file name in the line 28 in vector_store.py:Tip: If you want to process a different PDF document, update the file name in line 28 of vector_store.py:
+  >  **Tip**: If you want to process a different PDF document, update the file name in line 28 of vector_store.py: <br>
       ```
       loader = PyPDFLoader("file_name")
       ```
