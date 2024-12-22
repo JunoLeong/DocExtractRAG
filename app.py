@@ -212,6 +212,6 @@ with gr.Blocks(theme=gr.themes.Base(), title="DocExtractRAG") as iface:
            
     gr.Markdown("---")
     gr.HTML(
-        '<div style="text-align: center;"><a href="https://github.com/JunoLeong/DocExtractRAG"> Juno Leong © 2024 DocExtractRAG </a></div>'
+        '<div style="text-align: center;"><a href="https://github.com/JunoLeong/DocExtractRAG"> © Juno Leong 2024 DocExtractRAG </a></div>'
     )
 iface.launch()
