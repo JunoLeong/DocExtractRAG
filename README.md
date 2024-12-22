@@ -96,3 +96,5 @@ The Gradio interface enables intuitive interaction with DocExtractRAG.
 
 - [Gradio Documentation](https://huggingface.co/learn/nlp-course/chapter9/7)
 
+---
+Feel free to reach out with suggestions or improvements for the project! If you like or are using this project, please consider giving it a star⭐. Thanks! (●'◡'●)
