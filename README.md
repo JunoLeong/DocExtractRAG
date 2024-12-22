@@ -69,11 +69,13 @@ To get started with **DocExtractRAG**, follow these steps:
       loader = PyPDFLoader("file_name")
       ```
 
-5. Launch the application
+5. Launch the application:
    ``` bash
    python app.py
    ```
 
+6. Running the DocExtractRAG in your local host.  `http://127.0.0.1:7860`
+   
 **Note:**
 > - Check for breaking changes and deprecations for Langchain libraires (Optional): ```langchain-cli migrate --diff app.py``` 
 
@@ -83,6 +85,8 @@ To get started with **DocExtractRAG**, follow these steps:
 The Gradio interface enables intuitive interaction with DocExtractRAG.
 - gradio.Blocks 🧱: This low-level API allows full control over data flows and layout. To build a more complex and customizable application interface, `Blocks is used instead of gradio.interface`.
 
+### Here is the user interface of DocExtractRAG:
+<img src="Documentation_img\UI_gradio_DocExtractRAG.png" alt = 'User Interface DocExtractRAG'>
 
 ## Reference 📚
 - [LLM Model](https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF) <br>
